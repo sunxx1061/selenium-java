@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default Suite" thread-count="3" parallel="classes">
+  <test name="selenium_demo_180711">
+    <classes>
+      <class name="com.sunxx.testng.alertTest">
+        <methods>
+          <exclude name="test1"/>
+        </methods>
+      </class> <!-- com.sunxx.testng.gridTest -->
+    </classes>
+  </test> <!-- selenium_demo_180711 -->
+</suite> <!-- Default Suite -->
