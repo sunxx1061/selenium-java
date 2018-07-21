@@ -1,0 +1,54 @@
+2018-07-20 17:30:59,713 INFO main [com.sunxx.testng.TestUtil]info(line:37)2
+2018-07-20 17:30:59,717 INFO main [com.sunxx.testng.TestUtil]info(line:37)2
+2018-07-20 17:31:48,997 INFO main [com.sunxx.testng.TestUtil]info(line:37)30
+2018-07-20 17:31:49,002 INFO main [com.sunxx.testng.TestUtil]info(line:37)30
+2018-07-20 17:34:15,363 INFO main [com.sunxx.testng.TestUtil]info(line:37)84
+2018-07-20 17:34:15,369 INFO main [com.sunxx.testng.TestUtil]info(line:37)35
+2018-07-20 17:36:20,832 INFO main [com.sunxx.testng.TestUtil]info(line:37)41
+2018-07-20 17:36:20,837 INFO main [com.sunxx.testng.TestUtil]info(line:37)48
+2018-07-20 17:36:20,837 INFO main [com.sunxx.testng.TestUtil]info(line:37)ZIb2l
+2018-07-20 19:26:12,923 INFO main [com.sunxx.testng.ToolUtil]info(line:37)new folder successful
+2018-07-20 19:41:13,432 INFO pool-1-thread-1 [com.sunxx.otherzip.TestResultListener]onTestStart(line:48)test Start
+2018-07-20 19:41:24,210 INFO pool-1-thread-1 [com.sunxx.testng.ToolUtil]info(line:37)new folder successful
+2018-07-20 19:41:24,227 INFO pool-1-thread-1 [com.sunxx.otherzip.TestngRetry]retry(line:32)Retry for [test] on class [com.sunxx.testng.ToolUtil] Retry 1 times
+2018-07-20 19:41:24,531 INFO pool-1-thread-1 [com.sunxx.testng.ToolUtil]info(line:37)new folder successful
+2018-07-20 19:41:24,534 INFO pool-1-thread-1 [com.sunxx.otherzip.TestResultListener]onTestSkipped(line:36)test Skipped
+2018-07-20 19:41:24,535 INFO pool-1-thread-1 [com.sunxx.otherzip.TestResultListener]onTestStart(line:48)test Start
+2018-07-20 19:41:35,739 INFO pool-1-thread-1 [com.sunxx.testng.ToolUtil]info(line:37)new folder successful
+2018-07-20 19:41:36,080 INFO pool-1-thread-1 [com.sunxx.testng.ToolUtil]info(line:37)new folder successful
+2018-07-20 19:41:36,083 INFO pool-1-thread-1 [com.sunxx.otherzip.TestResultListener]onTestFailure(line:29)test Failure
+2018-07-20 19:41:36,084 INFO main [com.sunxx.otherzip.TestResultListener]onFinish(line:67)skipTest = test
+2018-07-20 19:41:36,085 INFO main [com.sunxx.otherzip.TestResultListener]onFinish(line:81)failedTest = test
+2018-07-20 19:41:36,085 INFO main [com.sunxx.otherzip.TestResultListener]onFinish(line:104)Remove repeat Fail Test: test
+2018-07-21 13:24:38,326 INFO pool-1-thread-1 [com.sunxx.otherzip.TestResultListener]onTestStart(line:48)test Start
+2018-07-21 13:24:51,297 INFO pool-1-thread-1 [com.sunxx.testng.ToolUtil]info(line:37)new folder successful
+2018-07-21 13:24:51,443 INFO pool-1-thread-1 [com.sunxx.otherzip.TestngRetry]retry(line:32)Retry for [test] on class [com.sunxx.testng.ToolUtil] Retry 1 times
+2018-07-21 13:24:51,444 INFO pool-1-thread-1 [com.sunxx.otherzip.TestResultListener]onTestSkipped(line:36)test Skipped
+2018-07-21 13:24:51,445 INFO pool-1-thread-1 [com.sunxx.otherzip.TestResultListener]onTestStart(line:48)test Start
+2018-07-21 13:25:05,729 INFO pool-1-thread-1 [com.sunxx.testng.ToolUtil]info(line:37)new folder successful
+2018-07-21 13:25:06,170 INFO pool-1-thread-1 [com.sunxx.testng.ToolUtil]info(line:37)new folder successful
+2018-07-21 13:25:06,173 INFO pool-1-thread-1 [com.sunxx.otherzip.TestResultListener]onTestFailure(line:29)test Failure
+2018-07-21 13:25:06,175 INFO main [com.sunxx.otherzip.TestResultListener]onFinish(line:67)skipTest = test
+2018-07-21 13:25:06,175 INFO main [com.sunxx.otherzip.TestResultListener]onFinish(line:81)failedTest = test
+2018-07-21 13:25:06,176 INFO main [com.sunxx.otherzip.TestResultListener]onFinish(line:104)Remove repeat Fail Test: test
+2018-07-21 13:27:27,879 INFO pool-1-thread-1 [com.sunxx.otherzip.TestResultListener]onTestStart(line:48)testFindElement Start
+2018-07-21 13:27:51,243 INFO pool-1-thread-1 [com.sunxx.otherzip.TestngRetry]retry(line:32)Retry for [testFindElement] on class [com.sunxx.testng.ToolUtil] Retry 1 times
+2018-07-21 13:27:51,246 INFO pool-1-thread-1 [com.sunxx.otherzip.TestResultListener]onTestSkipped(line:36)testFindElement Skipped
+2018-07-21 13:27:51,248 INFO pool-1-thread-1 [com.sunxx.otherzip.TestResultListener]onTestStart(line:48)testFindElement Start
+2018-07-21 13:28:09,066 INFO pool-1-thread-1 [com.sunxx.testng.ToolUtil]info(line:37)new folder successful
+2018-07-21 13:28:09,090 INFO pool-1-thread-1 [com.sunxx.otherzip.TestResultListener]onTestFailure(line:29)testFindElement Failure
+2018-07-21 13:28:09,091 INFO main [com.sunxx.otherzip.TestResultListener]onFinish(line:67)skipTest = testFindElement
+2018-07-21 13:28:09,092 INFO main [com.sunxx.otherzip.TestResultListener]onFinish(line:81)failedTest = testFindElement
+2018-07-21 13:28:09,092 INFO main [com.sunxx.otherzip.TestResultListener]onFinish(line:104)Remove repeat Fail Test: testFindElement
+2018-07-21 14:53:37,504 INFO main [com.sunxx.otherzip.TestngRetry]info(line:37)retrycount=1
+2018-07-21 14:53:37,518 INFO main [com.sunxx.otherzip.TestngRetry]info(line:37)sourceCodeDir=src
+2018-07-21 14:53:37,518 INFO main [com.sunxx.otherzip.TestngRetry]info(line:37)sourceCodeEncoding=UTF-8
+2018-07-21 14:53:37,585 INFO pool-1-thread-1 [com.sunxx.otherzip.TestResultListener]onTestStart(line:48)testFindElement Start
+2018-07-21 14:54:20,518 INFO pool-1-thread-1 [com.sunxx.otherzip.TestngRetry]info(line:37)Retry for [testFindElement] on class [com.sunxx.testng.ToolUtil] Retry 1 times
+2018-07-21 14:54:20,522 INFO pool-1-thread-1 [com.sunxx.otherzip.TestResultListener]onTestSkipped(line:36)testFindElement Skipped
+2018-07-21 14:54:20,524 INFO pool-1-thread-1 [com.sunxx.otherzip.TestResultListener]onTestStart(line:48)testFindElement Start
+2018-07-21 14:54:55,526 INFO pool-1-thread-1 [com.sunxx.otherzip.TestngRetry]info(line:37)new folder successful
+2018-07-21 14:54:55,558 INFO pool-1-thread-1 [com.sunxx.otherzip.TestResultListener]onTestFailure(line:29)testFindElement Failure
+2018-07-21 14:54:55,769 INFO main [com.sunxx.otherzip.TestResultListener]onFinish(line:67)skipTest = testFindElement
+2018-07-21 14:54:55,770 INFO main [com.sunxx.otherzip.TestResultListener]onFinish(line:81)failedTest = testFindElement
+2018-07-21 14:54:55,770 INFO main [com.sunxx.otherzip.TestResultListener]onFinish(line:104)Remove repeat Fail Test: testFindElement

@@ -2,13 +2,14 @@ package com.sunxx.testng;
 
 
 //import org.apache.commons.io.FileUtils;
+
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-
+import org.apache.commons.io.FileUtils;
 import java.io.File;
 
 /**
@@ -69,7 +70,7 @@ public class eventAction {
     public void test6() throws Exception {
         driver.get("http://www.baidu.com");
         File file=((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-       //FileUtils.copyFile(file,new File("F:\\测试\\测试进阶"));
+        FileUtils.copyFile(file,new File("F:\\测试\\测试进阶"));
     }
     @AfterMethod
     public void close(){

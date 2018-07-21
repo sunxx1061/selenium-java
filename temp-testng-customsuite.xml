@@ -3,11 +3,15 @@
 <suite name="Default Suite" thread-count="3" parallel="classes">
   <test name="selenium_demo_180711">
     <classes>
-      <class name="com.sunxx.testng.alertTest">
+      <class name="com.sunxx.testng.ToolUtil">
         <methods>
-          <exclude name="test1"/>
+          <include name="testFindElement"/>
         </methods>
       </class> <!-- com.sunxx.testng.gridTest -->
     </classes>
   </test> <!-- selenium_demo_180711 -->
+  <listeners>
+    <listener class-name="com.sunxx.otherzip.RetryListener"/>
+    <listener class-name="com.sunxx.otherzip.TestResultListener"/>
+  </listeners>
 </suite> <!-- Default Suite -->
